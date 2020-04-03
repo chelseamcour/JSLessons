@@ -1,0 +1,25 @@
+//Single line
+
+/*
+    Multi line
+*/
+
+let variableName;
+variableName = "test";
+
+Data Types
+    Number - 75
+        BigInt - 33n
+    String - 'quotes' "double" `ticks`
+    Null - null
+    Undefined - undefined
+    Boolean - true/false
+    Object - {}
+        Array - []
+
+operators
+hoisting
+scope
+literals
+string methods
+conditionals (!!! spicy)
